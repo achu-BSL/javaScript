@@ -6,3 +6,6 @@
   <li>Compiler</li>
   <li>The Combo</li>
 </ul>
+
+  <p>Memoization</p>
+  <p>Line chaching</p>
